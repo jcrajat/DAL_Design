@@ -1,0 +1,45 @@
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\Slyg.Data.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\Slyg.Data.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\Slyg.Tools.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\Slyg.Tools.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\obj\Debug\Slyg.Data.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data\obj\Debug\Slyg.Data.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\Data.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\Data.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\Tools.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\bin\Debug\Tools.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data\obj\Debug\Data.dll
+C:\Users\jhon.cruz\Downloads\Data\Data\obj\Debug\Data.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Data.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Data.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Npgsql.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Mono.Security.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Tools.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\obj\Debug\Data.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\obj\Debug\Data.pdb

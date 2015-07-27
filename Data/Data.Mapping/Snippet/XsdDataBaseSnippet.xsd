@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XsdDataBaseSnippet" targetNamespace="http://tempuri.org/XsdDataBaseSnippet.xsd" xmlns:mstns="http://tempuri.org/XsdDataBaseSnippet.xsd" xmlns="http://tempuri.org/XsdDataBaseSnippet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="XsdDataBaseSnippet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="XsdDataBaseSnippet" msprop:Generator_UserDSName="XsdDataBaseSnippet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SnippetData" msprop:Generator_TableClassName="SnippetDataDataTable" msprop:Generator_TableVarName="tableSnippetData" msprop:Generator_TablePropName="SnippetData" msprop:Generator_RowDeletingName="SnippetDataRowDeleting" msprop:Generator_UserTableName="SnippetData" msprop:Generator_RowChangingName="SnippetDataRowChanging" msprop:Generator_RowEvHandlerName="SnippetDataRowChangeEventHandler" msprop:Generator_RowDeletedName="SnippetDataRowDeleted" msprop:Generator_RowEvArgName="SnippetDataRowChangeEvent" msprop:Generator_RowChangedName="SnippetDataRowChanged" msprop:Generator_RowClassName="SnippetDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Snippet" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnid_Snippet" msprop:Generator_ColumnPropNameInRow="id_Snippet" msprop:Generator_ColumnPropNameInTable="id_SnippetColumn" msprop:Generator_UserColumnName="id_Snippet" type="xs:int" />
+              <xs:element name="fk_Padre_Snippet" msprop:Generator_ColumnVarNameInTable="columnfk_Padre_Snippet" msprop:Generator_ColumnPropNameInRow="fk_Padre_Snippet" msprop:Generator_ColumnPropNameInTable="fk_Padre_SnippetColumn" msprop:Generator_UserColumnName="fk_Padre_Snippet" type="xs:int" minOccurs="0" />
+              <xs:element name="Label" msprop:Generator_ColumnVarNameInTable="columnLabel" msprop:Generator_ColumnPropNameInRow="Label" msprop:Generator_ColumnPropNameInTable="LabelColumn" msprop:Generator_UserColumnName="Label" type="xs:string" minOccurs="0" />
+              <xs:element name="Source" msprop:Generator_ColumnVarNameInTable="columnSource" msprop:Generator_ColumnPropNameInRow="Source" msprop:Generator_ColumnPropNameInTable="SourceColumn" msprop:Generator_UserColumnName="Source" type="xs:string" minOccurs="0" />
+              <xs:element name="fk_Connection" msprop:Generator_ColumnVarNameInTable="columnfk_Connection" msprop:Generator_ColumnPropNameInRow="fk_Connection" msprop:Generator_ColumnPropNameInTable="fk_ConnectionColumn" msprop:Generator_UserColumnName="fk_Connection" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="SnippetDataKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SnippetData" />
+      <xs:field xpath="mstns:id_Snippet" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

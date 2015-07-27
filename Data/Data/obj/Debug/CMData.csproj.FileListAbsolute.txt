@@ -1,0 +1,30 @@
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\CMData.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\CMData.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Npgsql.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\Mono.Security.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\obj\Debug\CMData.csprojResolveAssemblyReference.cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\obj\Debug\CMData.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\obj\Debug\CMData.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\CM.Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\CMData.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\CMData.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\CM.Tools.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\obj\Debug\CMData.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data\obj\Debug\CMData.pdb

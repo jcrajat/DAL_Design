@@ -1,0 +1,25 @@
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\bin\Debug\Slyg.Tools.dll
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\bin\Debug\Slyg.Tools.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\Slyg.Tools.Properties.Resources.resources
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\Slyg.Tools.dll
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\Slyg.Tools.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Tools\Slyg.Tools\obj\Debug\Tools.Progress.FormProgress.resources
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\Tools.Progress.FormProgress.resources
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jhon.cruz\Downloads\Tools\Tools\bin\Debug\Tools.dll
+C:\Users\jhon.cruz\Downloads\Tools\Tools\bin\Debug\Tools.pdb
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\Tools.Properties.Resources.resources
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\Tools.dll
+C:\Users\jhon.cruz\Downloads\Tools\Tools\obj\Debug\Tools.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\bin\Debug\Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\bin\Debug\Tools.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\Tools.Progress.FormProgress.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\Tools.Properties.Resources.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\Tools.csproj.GenerateResource.Cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\Tools.pdb

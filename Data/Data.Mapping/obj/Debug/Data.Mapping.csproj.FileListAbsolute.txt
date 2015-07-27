@@ -1,0 +1,68 @@
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Slyg.Data.Mapping.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Slyg.Data.Mapping.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Slyg.Data.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Slyg.Tools.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Slyg.Tools.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\Slyg.Data.pdb
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\obj\Debug\Slyg.Data.Mapping.dll
+C:\Users\jhon.cruz\Downloads\Slyg Data\Slyg.Data.Mapping\obj\Debug\Slyg.Data.Mapping.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Data.Mapping.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Data.Mapping.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Data.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Tools.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Tools.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\bin\Debug\Data.pdb
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\obj\Debug\Data.Mapping.dll
+C:\Users\jhon.cruz\Downloads\Data\Data.Mapping\obj\Debug\Data.Mapping.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\Data.Mapping.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\Data.Mapping.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\CMData.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\Npgsql.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\Mono.Security.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\CMData.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\obj\Debug\Data.Mapping.csprojResolveAssemblyReference.cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\obj\Debug\Data.Mapping.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\obj\Debug\Data.Mapping.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\CM.Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\Data.Mapping\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\Data.Mapping.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\Data.Mapping.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\CM.Tools.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\CMData.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\CMData.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\obj\Debug\Data.Mapping.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\Data.Mapping\obj\Debug\Data.Mapping.pdb

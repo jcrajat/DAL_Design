@@ -1,0 +1,16 @@
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\bin\Debug\CM.Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\bin\Debug\CM.Tools.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\Tools.Progress.FormProgress.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\CM.Tools.Properties.Resources.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\CM.Tools.csproj.GenerateResource.Cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\CM.Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Tools\Tools\obj\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\bin\Debug\CM.Tools.dll
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\Tools.Progress.FormProgress.resources
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\CM.Tools.Properties.Resources.resources
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\CM.Tools.dll
+C:\Users\jhon.cruz\Desktop\Projects\Tools\Tools\obj\Debug\CM.Tools.pdb

@@ -1,0 +1,58 @@
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.Main.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.Properties.Resources.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.csproj.GenerateResource.Cache
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.exe.licenses
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.exe.config
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.exe
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CMData.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\Data.Mapping.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\Npgsql.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\Mono.Security.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\Data.Mapping.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CMData.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.exe
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.pdb
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.Forms.FormAccessDesigner.resources
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CM.Tools.dll
+C:\Users\JhonJairo\Documents\Visual Studio 2010\Projects\Data\CM.DataModel\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.exe.config
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.exe
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.exe
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.Tools.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CMData.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\Data.Mapping.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\Npgsql.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\Mono.Security.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.Tools.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\Data.Mapping.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CMData.pdb
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\de\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\es\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.Forms.FormAccessDesigner.resources
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.Main.resources
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.Properties.Resources.resources
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.exe.licenses
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.exe.manifest
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\bin\Debug\CM.DataModel.application
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.exe.manifest
+C:\Users\jhon.cruz\Desktop\Projects\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.application
+D:\Projects\CM.DataModel.Code\Data\CM.DataModel\bin\Debug\CM.DataModel.exe.config
+D:\Projects\CM.DataModel.Code\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.exe
+D:\Projects\CM.DataModel.Code\Data\CM.DataModel\obj\x86\Debug\CM.DataModel.pdb

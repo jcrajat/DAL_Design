@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XsdDataBase" targetNamespace="http://tempuri.org/XsdDataBase.xsd" xmlns:mstns="http://tempuri.org/XsdDataBase.xsd" xmlns="http://tempuri.org/XsdDataBase.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="XsdDataBase" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="XsdDataBase" msprop:Generator_UserDSName="XsdDataBase">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TBL_Object" msprop:Generator_TableClassName="TBL_ObjectDataTable" msprop:Generator_TableVarName="tableTBL_Object" msprop:Generator_TablePropName="TBL_Object" msprop:Generator_RowDeletingName="TBL_ObjectRowDeleting" msprop:Generator_RowChangingName="TBL_ObjectRowChanging" msprop:Generator_RowEvHandlerName="TBL_ObjectRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_ObjectRowDeleted" msprop:Generator_UserTableName="TBL_Object" msprop:Generator_RowChangedName="TBL_ObjectRowChanged" msprop:Generator_RowEvArgName="TBL_ObjectRowChangeEvent" msprop:Generator_RowClassName="TBL_ObjectRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Object" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid_Object" msprop:Generator_ColumnPropNameInRow="id_Object" msprop:Generator_ColumnPropNameInTable="id_ObjectColumn" msprop:Generator_UserColumnName="id_Object" type="xs:int" />
+              <xs:element name="fk_Connection" msprop:Generator_ColumnVarNameInTable="columnfk_Connection" msprop:Generator_ColumnPropNameInRow="fk_Connection" msprop:Generator_ColumnPropNameInTable="fk_ConnectionColumn" msprop:Generator_UserColumnName="fk_Connection" type="xs:int" minOccurs="0" />
+              <xs:element name="Generic_Type" msprop:Generator_ColumnVarNameInTable="columnGeneric_Type" msprop:Generator_ColumnPropNameInRow="Generic_Type" msprop:Generator_ColumnPropNameInTable="Generic_TypeColumn" msprop:Generator_UserColumnName="Generic_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Catalog_Name" msprop:Generator_ColumnVarNameInTable="columnCatalog_Name" msprop:Generator_ColumnPropNameInRow="Catalog_Name" msprop:Generator_ColumnPropNameInTable="Catalog_NameColumn" msprop:Generator_UserColumnName="Catalog_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Schema_Name" msprop:Generator_ColumnVarNameInTable="columnSchema_Name" msprop:Generator_ColumnPropNameInRow="Schema_Name" msprop:Generator_ColumnPropNameInTable="Schema_NameColumn" msprop:Generator_UserColumnName="Schema_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Object_Type" msprop:Generator_ColumnVarNameInTable="columnObject_Type" msprop:Generator_ColumnPropNameInRow="Object_Type" msprop:Generator_ColumnPropNameInTable="Object_TypeColumn" msprop:Generator_UserColumnName="Object_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Object_Name" msdata:Caption="Table_Name" msprop:Generator_ColumnVarNameInTable="columnObject_Name" msprop:Generator_ColumnPropNameInRow="Object_Name" msprop:Generator_ColumnPropNameInTable="Object_NameColumn" msprop:Generator_UserColumnName="Object_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Selected" msprop:Generator_ColumnVarNameInTable="columnSelected" msprop:Generator_ColumnPropNameInRow="Selected" msprop:Generator_ColumnPropNameInTable="SelectedColumn" msprop:Generator_UserColumnName="Selected" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Mapped" msprop:Generator_ColumnVarNameInTable="columnMapped" msprop:Generator_ColumnPropNameInRow="Mapped" msprop:Generator_ColumnPropNameInTable="MappedColumn" msprop:Generator_UserColumnName="Mapped" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Field" msprop:Generator_TableClassName="TBL_FieldDataTable" msprop:Generator_TableVarName="tableTBL_Field" msprop:Generator_TablePropName="TBL_Field" msprop:Generator_RowDeletingName="TBL_FieldRowDeleting" msprop:Generator_RowChangingName="TBL_FieldRowChanging" msprop:Generator_RowEvHandlerName="TBL_FieldRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_FieldRowDeleted" msprop:Generator_UserTableName="TBL_Field" msprop:Generator_RowChangedName="TBL_FieldRowChanged" msprop:Generator_RowEvArgName="TBL_FieldRowChangeEvent" msprop:Generator_RowClassName="TBL_FieldRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Field" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid_Field" msprop:Generator_ColumnPropNameInRow="id_Field" msprop:Generator_ColumnPropNameInTable="id_FieldColumn" msprop:Generator_UserColumnName="id_Field" type="xs:int" />
+              <xs:element name="fk_Object" msprop:Generator_ColumnVarNameInTable="columnfk_Object" msprop:Generator_ColumnPropNameInRow="fk_Object" msprop:Generator_ColumnPropNameInTable="fk_ObjectColumn" msprop:Generator_UserColumnName="fk_Object" type="xs:int" minOccurs="0" />
+              <xs:element name="Field_Name" msprop:Generator_ColumnVarNameInTable="columnField_Name" msprop:Generator_ColumnPropNameInRow="Field_Name" msprop:Generator_ColumnPropNameInTable="Field_NameColumn" msprop:Generator_UserColumnName="Field_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Field_Type" msprop:Generator_ColumnVarNameInTable="columnField_Type" msprop:Generator_ColumnPropNameInRow="Field_Type" msprop:Generator_ColumnPropNameInTable="Field_TypeColumn" msprop:Generator_UserColumnName="Field_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Specific_Type" msprop:Generator_ColumnVarNameInTable="columnSpecific_Type" msprop:Generator_ColumnPropNameInRow="Specific_Type" msprop:Generator_ColumnPropNameInTable="Specific_TypeColumn" msprop:Generator_UserColumnName="Specific_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Is_Nullable" msprop:Generator_ColumnVarNameInTable="columnIs_Nullable" msprop:Generator_ColumnPropNameInRow="Is_Nullable" msprop:Generator_ColumnPropNameInTable="Is_NullableColumn" msprop:Generator_UserColumnName="Is_Nullable" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Max_Length" msprop:Generator_ColumnVarNameInTable="columnMax_Length" msprop:Generator_ColumnPropNameInRow="Max_Length" msprop:Generator_ColumnPropNameInTable="Max_LengthColumn" msprop:Generator_UserColumnName="Max_Length" type="xs:int" minOccurs="0" />
+              <xs:element name="Precision" msprop:Generator_ColumnVarNameInTable="columnPrecision" msprop:Generator_ColumnPropNameInRow="Precision" msprop:Generator_ColumnPropNameInTable="PrecisionColumn" msprop:Generator_UserColumnName="Precision" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="Scale" msprop:Generator_ColumnVarNameInTable="columnScale" msprop:Generator_ColumnPropNameInRow="Scale" msprop:Generator_ColumnPropNameInTable="ScaleColumn" msprop:Generator_UserColumnName="Scale" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="PrimaryKey_Order" msprop:Generator_ColumnVarNameInTable="columnPrimaryKey_Order" msprop:Generator_ColumnPropNameInRow="PrimaryKey_Order" msprop:Generator_ColumnPropNameInTable="PrimaryKey_OrderColumn" msprop:Generator_UserColumnName="PrimaryKey_Order" type="xs:string" minOccurs="0" />
+              <xs:element name="Direction" msprop:Generator_ColumnVarNameInTable="columnDirection" msprop:Generator_ColumnPropNameInRow="Direction" msprop:Generator_ColumnPropNameInTable="DirectionColumn" msprop:Generator_UserColumnName="Direction" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Connection" msprop:Generator_TableClassName="TBL_ConnectionDataTable" msprop:Generator_TableVarName="tableTBL_Connection" msprop:Generator_TablePropName="TBL_Connection" msprop:Generator_RowDeletingName="TBL_ConnectionRowDeleting" msprop:Generator_RowChangingName="TBL_ConnectionRowChanging" msprop:Generator_RowEvHandlerName="TBL_ConnectionRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_ConnectionRowDeleted" msprop:Generator_UserTableName="TBL_Connection" msprop:Generator_RowChangedName="TBL_ConnectionRowChanged" msprop:Generator_RowEvArgName="TBL_ConnectionRowChangeEvent" msprop:Generator_RowClassName="TBL_ConnectionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Connection" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid_Connection" msprop:Generator_ColumnPropNameInRow="id_Connection" msprop:Generator_ColumnPropNameInTable="id_ConnectionColumn" msprop:Generator_UserColumnName="id_Connection" type="xs:int" />
+              <xs:element name="Connection_Name" msprop:Generator_ColumnVarNameInTable="columnConnection_Name" msprop:Generator_ColumnPropNameInRow="Connection_Name" msprop:Generator_ColumnPropNameInTable="Connection_NameColumn" msprop:Generator_UserColumnName="Connection_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Connection_Type" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="Connection_Type" msprop:Generator_ColumnVarNameInTable="columnConnection_Type" msprop:Generator_ColumnPropNameInTable="Connection_TypeColumn" msprop:Generator_UserColumnName="Connection_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Connection_String" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="Connection_String" msprop:Generator_ColumnVarNameInTable="columnConnection_String" msprop:Generator_ColumnPropNameInTable="Connection_StringColumn" msprop:Generator_UserColumnName="Connection_String" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Relation" msprop:Generator_TableClassName="TBL_RelationDataTable" msprop:Generator_TableVarName="tableTBL_Relation" msprop:Generator_TablePropName="TBL_Relation" msprop:Generator_RowDeletingName="TBL_RelationRowDeleting" msprop:Generator_RowChangingName="TBL_RelationRowChanging" msprop:Generator_RowEvHandlerName="TBL_RelationRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_RelationRowDeleted" msprop:Generator_UserTableName="TBL_Relation" msprop:Generator_RowChangedName="TBL_RelationRowChanged" msprop:Generator_RowEvArgName="TBL_RelationRowChangeEvent" msprop:Generator_RowClassName="TBL_RelationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Relation" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid_Relation" msprop:Generator_ColumnPropNameInRow="id_Relation" msprop:Generator_ColumnPropNameInTable="id_RelationColumn" msprop:Generator_UserColumnName="id_Relation" type="xs:int" minOccurs="0" />
+              <xs:element name="fk_Field" msprop:Generator_ColumnVarNameInTable="columnfk_Field" msprop:Generator_ColumnPropNameInRow="fk_Field" msprop:Generator_ColumnPropNameInTable="fk_FieldColumn" msprop:Generator_UserColumnName="fk_Field" type="xs:int" minOccurs="0" />
+              <xs:element name="Relation_Name" msprop:Generator_ColumnVarNameInTable="columnRelation_Name" msprop:Generator_ColumnPropNameInRow="Relation_Name" msprop:Generator_ColumnPropNameInTable="Relation_NameColumn" msprop:Generator_UserColumnName="Relation_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Table_Name" msprop:Generator_ColumnVarNameInTable="columnTable_Name" msprop:Generator_ColumnPropNameInRow="Table_Name" msprop:Generator_ColumnPropNameInTable="Table_NameColumn" msprop:Generator_UserColumnName="Table_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Column_Name" msprop:Generator_ColumnVarNameInTable="columnColumn_Name" msprop:Generator_ColumnPropNameInRow="Column_Name" msprop:Generator_ColumnPropNameInTable="Column_NameColumn" msprop:Generator_UserColumnName="Column_Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Generic_Type" msprop:Generator_TableClassName="TBL_Generic_TypeDataTable" msprop:Generator_TableVarName="tableTBL_Generic_Type" msprop:Generator_TablePropName="TBL_Generic_Type" msprop:Generator_RowDeletingName="TBL_Generic_TypeRowDeleting" msprop:Generator_RowChangingName="TBL_Generic_TypeRowChanging" msprop:Generator_RowEvHandlerName="TBL_Generic_TypeRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_Generic_TypeRowDeleted" msprop:Generator_UserTableName="TBL_Generic_Type" msprop:Generator_RowChangedName="TBL_Generic_TypeRowChanged" msprop:Generator_RowEvArgName="TBL_Generic_TypeRowChangeEvent" msprop:Generator_RowClassName="TBL_Generic_TypeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fk_Connection" msdata:Caption="id_Connection" msprop:Generator_ColumnVarNameInTable="columnfk_Connection" msprop:Generator_ColumnPropNameInRow="fk_Connection" msprop:Generator_ColumnPropNameInTable="fk_ConnectionColumn" msprop:Generator_UserColumnName="fk_Connection" type="xs:int" minOccurs="0" />
+              <xs:element name="Generic_Type" msprop:Generator_ColumnVarNameInTable="columnGeneric_Type" msprop:Generator_ColumnPropNameInRow="Generic_Type" msprop:Generator_ColumnPropNameInTable="Generic_TypeColumn" msprop:Generator_UserColumnName="Generic_Type" type="xs:string" />
+              <xs:element name="Generic_Type_Name" msprop:Generator_ColumnVarNameInTable="columnGeneric_Type_Name" msprop:Generator_ColumnPropNameInRow="Generic_Type_Name" msprop:Generator_ColumnPropNameInTable="Generic_Type_NameColumn" msprop:Generator_UserColumnName="Generic_Type_Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Filter" msprop:Generator_TableClassName="TBL_FilterDataTable" msprop:Generator_TableVarName="tableTBL_Filter" msprop:Generator_TablePropName="TBL_Filter" msprop:Generator_RowDeletingName="TBL_FilterRowDeleting" msprop:Generator_RowChangingName="TBL_FilterRowChanging" msprop:Generator_RowEvHandlerName="TBL_FilterRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_FilterRowDeleted" msprop:Generator_UserTableName="TBL_Filter" msprop:Generator_RowChangedName="TBL_FilterRowChanged" msprop:Generator_RowEvArgName="TBL_FilterRowChangeEvent" msprop:Generator_RowClassName="TBL_FilterRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Filter" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid_Filter" msprop:Generator_ColumnPropNameInRow="id_Filter" msprop:Generator_ColumnPropNameInTable="id_FilterColumn" msprop:Generator_UserColumnName="id_Filter" type="xs:int" minOccurs="0" />
+              <xs:element name="fk_Object" msprop:Generator_ColumnVarNameInTable="columnfk_Object" msprop:Generator_ColumnPropNameInRow="fk_Object" msprop:Generator_ColumnPropNameInTable="fk_ObjectColumn" msprop:Generator_UserColumnName="fk_Object" type="xs:int" minOccurs="0" />
+              <xs:element name="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" msprop:Generator_UserColumnName="Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Filter_Field" msprop:Generator_TableClassName="TBL_Filter_FieldDataTable" msprop:Generator_TableVarName="tableTBL_Filter_Field" msprop:Generator_TablePropName="TBL_Filter_Field" msprop:Generator_RowDeletingName="TBL_Filter_FieldRowDeleting" msprop:Generator_RowChangingName="TBL_Filter_FieldRowChanging" msprop:Generator_RowEvHandlerName="TBL_Filter_FieldRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_Filter_FieldRowDeleted" msprop:Generator_UserTableName="TBL_Filter_Field" msprop:Generator_RowChangedName="TBL_Filter_FieldRowChanged" msprop:Generator_RowEvArgName="TBL_Filter_FieldRowChangeEvent" msprop:Generator_RowClassName="TBL_Filter_FieldRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fk_Filter" msprop:Generator_ColumnVarNameInTable="columnfk_Filter" msprop:Generator_ColumnPropNameInRow="fk_Filter" msprop:Generator_ColumnPropNameInTable="fk_FilterColumn" msprop:Generator_UserColumnName="fk_Filter" type="xs:int" minOccurs="0" />
+              <xs:element name="Filter_Order" msprop:Generator_ColumnVarNameInTable="columnFilter_Order" msprop:Generator_ColumnPropNameInRow="Filter_Order" msprop:Generator_ColumnPropNameInTable="Filter_OrderColumn" msprop:Generator_UserColumnName="Filter_Order" type="xs:int" minOccurs="0" />
+              <xs:element name="Field_Name" msprop:Generator_ColumnVarNameInTable="columnField_Name" msprop:Generator_ColumnPropNameInRow="Field_Name" msprop:Generator_ColumnPropNameInTable="Field_NameColumn" msprop:Generator_UserColumnName="Field_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="id_Filter_Field" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnid_Filter_Field" msprop:Generator_ColumnPropNameInRow="id_Filter_Field" msprop:Generator_ColumnPropNameInTable="id_Filter_FieldColumn" msprop:Generator_UserColumnName="id_Filter_Field" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_SP_Return" msprop:Generator_TableClassName="TBL_SP_ReturnDataTable" msprop:Generator_TableVarName="tableTBL_SP_Return" msprop:Generator_TablePropName="TBL_SP_Return" msprop:Generator_RowDeletingName="TBL_SP_ReturnRowDeleting" msprop:Generator_RowChangingName="TBL_SP_ReturnRowChanging" msprop:Generator_RowEvHandlerName="TBL_SP_ReturnRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_SP_ReturnRowDeleted" msprop:Generator_UserTableName="TBL_SP_Return" msprop:Generator_RowChangedName="TBL_SP_ReturnRowChanged" msprop:Generator_RowEvArgName="TBL_SP_ReturnRowChangeEvent" msprop:Generator_RowClassName="TBL_SP_ReturnRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Sp_Return" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnid_Sp_Return" msprop:Generator_ColumnPropNameInRow="id_Sp_Return" msprop:Generator_ColumnPropNameInTable="id_Sp_ReturnColumn" msprop:Generator_UserColumnName="id_Sp_Return" type="xs:int" minOccurs="0" />
+              <xs:element name="fk_Object" msprop:Generator_ColumnVarNameInTable="columnfk_Object" msprop:Generator_ColumnPropNameInRow="fk_Object" msprop:Generator_ColumnPropNameInTable="fk_ObjectColumn" msprop:Generator_UserColumnName="fk_Object" type="xs:int" minOccurs="0" />
+              <xs:element name="Return_Type" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="Return_Type" msprop:Generator_ColumnVarNameInTable="columnReturn_Type" msprop:Generator_ColumnPropNameInTable="Return_TypeColumn" msprop:Generator_UserColumnName="Return_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Data_Type_Returned" msprop:Generator_ColumnVarNameInTable="columnData_Type_Returned" msprop:Generator_ColumnPropNameInRow="Data_Type_Returned" msprop:Generator_ColumnPropNameInTable="Data_Type_ReturnedColumn" msprop:Generator_UserColumnName="Data_Type_Returned" type="xs:string" minOccurs="0" />
+              <xs:element name="Schema_Name_Returned" msprop:Generator_ColumnVarNameInTable="columnSchema_Name_Returned" msprop:Generator_ColumnPropNameInRow="Schema_Name_Returned" msprop:Generator_ColumnPropNameInTable="Schema_Name_ReturnedColumn" msprop:Generator_UserColumnName="Schema_Name_Returned" type="xs:string" minOccurs="0" />
+              <xs:element name="Object_Name_Returned" msprop:Generator_ColumnVarNameInTable="columnObject_Name_Returned" msprop:Generator_ColumnPropNameInRow="Object_Name_Returned" msprop:Generator_ColumnPropNameInTable="Object_Name_ReturnedColumn" msprop:Generator_UserColumnName="Object_Name_Returned" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Catalog" msprop:Generator_TableClassName="TBL_CatalogDataTable" msprop:Generator_TableVarName="tableTBL_Catalog" msprop:Generator_TablePropName="TBL_Catalog" msprop:Generator_RowDeletingName="TBL_CatalogRowDeleting" msprop:Generator_RowChangingName="TBL_CatalogRowChanging" msprop:Generator_RowEvHandlerName="TBL_CatalogRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_CatalogRowDeleted" msprop:Generator_UserTableName="TBL_Catalog" msprop:Generator_RowChangedName="TBL_CatalogRowChanged" msprop:Generator_RowEvArgName="TBL_CatalogRowChangeEvent" msprop:Generator_RowClassName="TBL_CatalogRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fk_Connection" msprop:Generator_ColumnVarNameInTable="columnfk_Connection" msprop:Generator_ColumnPropNameInRow="fk_Connection" msprop:Generator_ColumnPropNameInTable="fk_ConnectionColumn" msprop:Generator_UserColumnName="fk_Connection" type="xs:int" />
+              <xs:element name="Catalog_Name" msprop:Generator_ColumnVarNameInTable="columnCatalog_Name" msprop:Generator_ColumnPropNameInRow="Catalog_Name" msprop:Generator_ColumnPropNameInTable="Catalog_NameColumn" msprop:Generator_UserColumnName="Catalog_Name" type="xs:string" />
+              <xs:element name="Class_Name" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="Class_Name" msprop:Generator_ColumnVarNameInTable="columnClass_Name" msprop:Generator_ColumnPropNameInTable="Class_NameColumn" msprop:Generator_UserColumnName="Class_Name" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Class_File_Name" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="Class_File_Name" msprop:Generator_ColumnVarNameInTable="columnClass_File_Name" msprop:Generator_ColumnPropNameInTable="Class_File_NameColumn" msprop:Generator_UserColumnName="Class_File_Name" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TBL_Schema" msprop:Generator_TableClassName="TBL_SchemaDataTable" msprop:Generator_TableVarName="tableTBL_Schema" msprop:Generator_TablePropName="TBL_Schema" msprop:Generator_RowDeletingName="TBL_SchemaRowDeleting" msprop:Generator_RowChangingName="TBL_SchemaRowChanging" msprop:Generator_RowEvHandlerName="TBL_SchemaRowChangeEventHandler" msprop:Generator_RowDeletedName="TBL_SchemaRowDeleted" msprop:Generator_UserTableName="TBL_Schema" msprop:Generator_RowChangedName="TBL_SchemaRowChanged" msprop:Generator_RowEvArgName="TBL_SchemaRowChangeEvent" msprop:Generator_RowClassName="TBL_SchemaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fk_Connection" msprop:Generator_ColumnVarNameInTable="columnfk_Connection" msprop:Generator_ColumnPropNameInRow="fk_Connection" msprop:Generator_ColumnPropNameInTable="fk_ConnectionColumn" msprop:Generator_UserColumnName="fk_Connection" type="xs:int" />
+              <xs:element name="Schema_Name" msprop:Generator_ColumnVarNameInTable="columnSchema_Name" msprop:Generator_ColumnPropNameInRow="Schema_Name" msprop:Generator_ColumnPropNameInTable="Schema_NameColumn" msprop:Generator_UserColumnName="Schema_Name" type="xs:string" />
+              <xs:element name="Schema_Alias" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="Schema_Alias" msprop:Generator_ColumnVarNameInTable="columnSchema_Alias" msprop:Generator_ColumnPropNameInTable="Schema_AliasColumn" msprop:Generator_UserColumnName="Schema_Alias" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="Maping_Schema" msprop:Generator_ColumnVarNameInTable="columnMaping_Schema" msprop:Generator_ColumnPropNameInRow="Maping_Schema" msprop:Generator_ColumnPropNameInTable="Maping_SchemaColumn" msprop:Generator_UserColumnName="Maping_Schema" type="xs:boolean" default="false" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TBL_Object" />
+      <xs:field xpath="mstns:id_Object" />
+    </xs:unique>
+    <xs:unique name="TBL_FieldKey1">
+      <xs:selector xpath=".//mstns:TBL_Field" />
+      <xs:field xpath="mstns:id_Field" />
+    </xs:unique>
+    <xs:unique name="TBL_Connection_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TBL_Connection" />
+      <xs:field xpath="mstns:id_Connection" />
+    </xs:unique>
+    <xs:unique name="TBL_RelationKey1">
+      <xs:selector xpath=".//mstns:TBL_Relation" />
+      <xs:field xpath="mstns:id_Relation" />
+    </xs:unique>
+    <xs:unique name="TBL_Generic_TypeKey1">
+      <xs:selector xpath=".//mstns:TBL_Generic_Type" />
+      <xs:field xpath="mstns:fk_Connection" />
+      <xs:field xpath="mstns:Generic_Type" />
+    </xs:unique>
+    <xs:unique name="TBL_Object_FindKey1">
+      <xs:selector xpath=".//mstns:TBL_Filter" />
+      <xs:field xpath="mstns:id_Filter" />
+    </xs:unique>
+    <xs:unique name="TBL_Filter_Field_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TBL_Filter_Field" />
+      <xs:field xpath="mstns:id_Filter_Field" />
+    </xs:unique>
+    <xs:unique name="TBL_SP_ReturnKey1">
+      <xs:selector xpath=".//mstns:TBL_SP_Return" />
+      <xs:field xpath="mstns:id_Sp_Return" />
+    </xs:unique>
+    <xs:unique name="TBL_CatalogKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TBL_Catalog" />
+      <xs:field xpath="mstns:fk_Connection" />
+      <xs:field xpath="mstns:Catalog_Name" />
+    </xs:unique>
+    <xs:unique name="TBL_SchemaKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TBL_Schema" />
+      <xs:field xpath="mstns:fk_Connection" />
+      <xs:field xpath="mstns:Schema_Name" />
+    </xs:unique>
+    <xs:keyref name="FK_TBL_Object_TBL_SP_Return1" refer="Constraint1" msprop:rel_Generator_UserChildTable="TBL_SP_Return" msprop:rel_Generator_ChildPropName="GetTBL_SP_ReturnRows" msprop:rel_Generator_UserRelationName="FK_TBL_Object_TBL_SP_Return1" msprop:rel_Generator_ParentPropName="TBL_ObjectRow" msprop:rel_Generator_RelationVarName="relationFK_TBL_Object_TBL_SP_Return1" msprop:rel_Generator_UserParentTable="TBL_Object">
+      <xs:selector xpath=".//mstns:TBL_SP_Return" />
+      <xs:field xpath="mstns:fk_Object" />
+    </xs:keyref>
+    <xs:keyref name="FK_TBL_Filter_TBL_Filter_Field" refer="TBL_Object_FindKey1" msprop:rel_Generator_UserChildTable="TBL_Filter_Field" msprop:rel_Generator_ChildPropName="GetTBL_Filter_FieldRows" msprop:rel_Generator_UserRelationName="FK_TBL_Filter_TBL_Filter_Field" msprop:rel_Generator_ParentPropName="TBL_FilterRow" msprop:rel_Generator_RelationVarName="relationFK_TBL_Filter_TBL_Filter_Field" msprop:rel_Generator_UserParentTable="TBL_Filter">
+      <xs:selector xpath=".//mstns:TBL_Filter_Field" />
+      <xs:field xpath="mstns:fk_Filter" />
+    </xs:keyref>
+    <xs:keyref name="FK_TBL_Object_TBL_Object_Find" refer="Constraint1" msprop:rel_Generator_UserChildTable="TBL_Filter" msprop:rel_Generator_ChildPropName="GetTBL_FilterRows" msprop:rel_Generator_UserRelationName="FK_TBL_Object_TBL_Object_Find" msprop:rel_Generator_ParentPropName="TBL_ObjectRow" msprop:rel_Generator_RelationVarName="relationFK_TBL_Object_TBL_Object_Find" msprop:rel_Generator_UserParentTable="TBL_Object">
+      <xs:selector xpath=".//mstns:TBL_Filter" />
+      <xs:field xpath="mstns:fk_Object" />
+    </xs:keyref>
+    <xs:keyref name="FK_TBL_Connection_TBL_Generic_Type" refer="TBL_Connection_Constraint1" msprop:rel_Generator_UserChildTable="TBL_Generic_Type" msprop:rel_Generator_ChildPropName="GetTBL_Generic_TypeRows" msprop:rel_Generator_UserRelationName="FK_TBL_Connection_TBL_Generic_Type" msprop:rel_Generator_ParentPropName="TBL_ConnectionRow" msprop:rel_Generator_RelationVarName="relationFK_TBL_Connection_TBL_Generic_Type" msprop:rel_Generator_UserParentTable="TBL_Connection">
+      <xs:selector xpath=".//mstns:TBL_Generic_Type" />
+      <xs:field xpath="mstns:fk_Connection" />
+    </xs:keyref>
+    <xs:keyref name="FK_TBL_Field_TBL_Relation" refer="TBL_FieldKey1" msprop:rel_Generator_UserChildTable="TBL_Relation" msprop:rel_Generator_ChildPropName="GetTBL_RelationRows" msprop:rel_Generator_UserRelationName="FK_TBL_Field_TBL_Relation" msprop:rel_Generator_ParentPropName="TBL_FieldRow" msprop:rel_Generator_RelationVarName="relationFK_TBL_Field_TBL_Relation" msprop:rel_Generator_UserParentTable="TBL_Field">
+      <xs:selector xpath=".//mstns:TBL_Relation" />
+      <xs:field xpath="mstns:fk_Field" />
+    </xs:keyref>
+    <xs:keyref name="FK_TBL_Object_TBL_Field" refer="Constraint1" msprop:rel_Generator_UserChildTable="TBL_Field" msprop:rel_Generator_ChildPropName="GetTBL_FieldRows" msprop:rel_Generator_UserRelationName="FK_TBL_Object_TBL_Field" msprop:rel_Generator_ParentPropName="TBL_ObjectRow" msprop:rel_Generator_RelationVarName="relationFK_TBL_Object_TBL_Field" msprop:rel_Generator_UserParentTable="TBL_Object">
+      <xs:selector xpath=".//mstns:TBL_Field" />
+      <xs:field xpath="mstns:fk_Object" />
+    </xs:keyref>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FK_TBL_Generic_Type_TBL_Object" msdata:parent="TBL_Generic_Type" msdata:child="TBL_Object" msdata:parentkey="fk_Connection Generic_Type" msdata:childkey="fk_Connection Generic_Type" msprop:Generator_UserChildTable="TBL_Object" msprop:Generator_ChildPropName="GetTBL_ObjectRows" msprop:Generator_UserRelationName="FK_TBL_Generic_Type_TBL_Object" msprop:Generator_ParentPropName="TBL_Generic_TypeRowParent" msprop:Generator_RelationVarName="relationFK_TBL_Generic_Type_TBL_Object" msprop:Generator_UserParentTable="TBL_Generic_Type" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
